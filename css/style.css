@@ -1,0 +1,338 @@
+*
+{
+    padding: 0px;
+    margin: 0px;
+}
+@media only screen and (max-width: 600px)
+{
+
+}
+body,html
+{
+
+    margin: 0px;
+    height: 100%;
+
+}
+
+.main {
+
+    height: 100%;
+    width: 100%;
+    /*background-image: url("../image/water-beach-blue-purple-nature-colorful-pink-colors-sea-sky-wallpaper-full-hd-beautiful-100-beautiful-lighthouse-s-c2b7-pexels-c2b7-free-stock-s-of-water-beach-blue-purple-nature-colorful-pi.jpg");*/
+    /*background-image: url("../image/wallpaper2you_65006.jpg");*/
+    background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.4)),url("../image/wallpaper2you_65006.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+.main ul li
+{
+
+    left: 400px;
+    position: relative;
+
+    padding: 25px;
+    font-weight: lighter;
+    display: inline-block;
+    font-size: 20px;
+    color: white;
+
+    font-family:'Merriweather' ;
+}
+ul
+{
+
+    background-color:rgba(0,0,0,0.1);
+}
+.main ul li:hover
+{
+    background-color: plum;
+
+}
+li{
+
+    padding: 20px;
+}
+ul li a
+{
+    text-decoration: none;
+    color: white;
+
+}
+.loginpage
+{
+    height: 100%;
+    width: 100%;
+    background-image: url("../image/bxb-035-06-4expressions.jpg");
+    background-size: cover;
+
+}
+.second
+{
+
+    height: 100%;
+    width: 100%;
+    background-image: url("../image/bxb-035-06-4expressions.jpg");
+    background-size: cover;
+    /*background-image:linear-gradient(rgba(0,0,0,0.2), rgba(252, 88, 56, 0.76)), url("../image/bxb-035-06-4expressions.jpg");;*/
+
+
+}
+.img1
+{
+    height: 40%;
+    width: 20%;
+    background-image: url("../image/3d wallpaper nature wallpaper wallpaper photo desktop wallpaper photo background beautiful wallpaper wallpaper images wallpaper hd nature mural free wallpaper Wallpaper  (2).jpg");
+    background-size: cover;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px rgba(82,69,97,0.5);
+    /*background-image: linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.1)),url("../image/3d wallpaper nature wallpaper wallpaper photo desktop wallpaper photo background beautiful wallpaper wallpaper images wallpaper hd nature mural free wallpaper Wallpaper  (2).jpg");*/
+
+}
+
+.img2
+{
+    height: 40%;
+    width: 20%;
+    background-image: url("../image/11697_All-nature-in-one-book-3D-wallpaper.jpg");
+    background-size: cover;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px rgba(82,69,97,0.5);
+
+}
+.img3
+{
+    height: 40%;
+    width: 20%;
+    background-image: url("../image/Awi5948_wallpaper2_bff239a9-b144-4be1-a9fe-6aad74c9bf9e_1024x1024.jpg");
+    background-size: cover;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px rgba(82,69,97,0.5);
+}
+.img4
+{
+    height: 40%;
+    width: 20%;
+    background-image: url("../image/Amazing Nature Wallpapers 20 (26).jpg");
+    background-size: cover;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px rgba(82,69,97,0.5);
+}
+.img5
+{
+    height: 40%;
+    width: 20%;
+    background-image: url("../image/pic1.jpg");
+    background-size: cover;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px rgba(82,69,97,0.5);
+}
+.img6
+{
+    height: 40%;
+    width: 20%;
+    background-image: url("../image/wallpaper2you_65006.jpg");
+    background-size: cover;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px rgba(82,69,97,0.5);
+}
+.img7
+{
+    height: 40%;
+    width: 20%;
+    background-image: url("../image/wallpaper2you_282614.jpg");
+    background-size: cover;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 5px 5px rgba(82,69,97,0.5);;
+}
+.img8
+{
+    height: 40%;
+    width: 20%;
+    background-image: url("../image/fantastic-nature-3d-wallpaper-for-desktop-33.jpg");
+    background-size: cover;
+    display: inline-block;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    box-shadow: 10px 10px rgba(82,69,97,0.5);
+}
+.third
+{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-image: url("../image/wallpaper2you_282614.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-image:linear-gradient(rgba(0,0,0,0.2), rgba(252, 88, 56, 0.76)), url("../image/wallpaper2you_282614.jpg");;
+    background-size: cover;
+    background-blend-mode: lighten;
+}
+
+.login
+{
+    position: relative;
+    height: 80%;
+    width: 30%;
+    background-color: rgba(0,0,0,0.3);
+    border-radius: 20px;
+    margin: auto;
+    top: 80px;
+    bottom: 0;
+    left: 0;
+    right: 0;
+
+
+
+
+
+
+}
+.img1:hover
+{
+    opacity:0.6;
+
+    transition: width 2s, height 4s;
+
+}
+.img2:hover
+{
+    opacity:0.6;
+}
+.img3:hover
+{
+    opacity:0.6;
+}
+.img4:hover
+{
+    opacity:0.6;
+}
+.img5:hover
+{
+    opacity:0.6;
+}
+.img6:hover
+{
+    opacity:0.6;
+}
+.img7:hover
+{
+    opacity:0.6;
+}
+.img8:hover
+{
+    opacity:0.6;
+}
+.login:hover
+{
+    transform: rotatey(180deg);
+    transition-duration: 3s;
+}
+.search
+{
+ position: relative;
+    top: 200px;
+    left: 250px;
+    height: 7%;
+    width: 60%;
+    border-radius: 20px;
+
+}
+.btn
+{
+    position: relative;
+    top: 200px;
+    left: 250px;
+    height: 7%;
+    width: 10%;
+    border-radius: 20px;
+
+
+}
+.firstpart
+{
+    position: relative;
+    top: 230px;
+    left: 100px;
+    color:white;
+    font-weight: lighter;
+    font-family: Merriweather;
+
+}
+.loginpage h3
+{
+    margin: 0;
+    position: relative;
+    top: 50px;
+    font-family: Merriweather;
+    left: 570px;
+    font-weight: lighter;
+    font-size: 2em;
+
+}
+input
+{
+    height: 40px;
+    width: 219px;
+    margin: 10px;
+}
+.form
+{
+    text-align: center;
+}
+input[type=submit]
+{
+    background:rgba(0,0,0,0.3);
+    color: white;
+    width: 20%;
+    border-radius: 5px;
+    }
+.lb
+{
+    color: white;
+    font-family: Merriweather;
+}
+.lb1
+{
+    color: white;
+    font-family: Merriweather;
+}
+.footer
+{
+  position: relative;
+    height: 10%;
+    width: 100%;
+    top:580px;
+    background-color:rgba(0,0,0,0.3);
+}
